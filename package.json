@@ -10,9 +10,9 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "eslint": "^9.14.0"
+    "eslint-plugin-import": "^2.31.0"
   },
   "peerDependencies": {
-    "async": "^7.0.0"
+    "eslint": "^9.14.0"
   }
 }
